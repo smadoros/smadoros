@@ -1,5 +1,8 @@
-## Hi there 👋
+* 대규모 사용자 환경에서 동작하는 서버를 개발하고 유지 보수하는 업무를 담당하고 있습니다.
+주요 업무는 분산 서버 아키텍처 설계, 소켓 서버, WAS 및 툴 개발, 코드 개선과 성능 최적화, 데이터베이스 유지 보수 등이 있습니다.
+CPP, C#(.NET)을 주로 사용하며, 다양한 프로젝트를 통해 기술 역량을 쌓아왔습니다.
 
+* 컴포트 존(Comfort zone)에 안주하지 않고, 새로운 기술 트렌드를 학습하고 도입하여 더 나은 서버 구조를 만들기 위해 노력하고 있습니다.
 <!--
 **smadoros/smadoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
